@@ -1,6 +1,6 @@
 package assignments;
 //WAP to check condition statements of If Elseif else
-public class Assignment_101 
+public class Assignment_10 
 {
 	public static void main(String[] args) 
 	{
@@ -29,3 +29,4 @@ public class Assignment_101
 	}
 
 }
+
