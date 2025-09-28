@@ -1,6 +1,6 @@
 package assignments;
 //WAP to subtract 3 numbers 2 of int type and 1 of double type.Ex: a-b-c
-public class Assignment_10 
+public class Assignment_9 
 {
 	public static void main(String[] args) 
 	{
@@ -10,4 +10,5 @@ public class Assignment_10
 		double subtract=a-b-c;
 		System.out.println(subtract);
 	}
+
 }
