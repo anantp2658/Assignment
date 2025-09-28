@@ -1,6 +1,6 @@
 package assignments;
 //WAP to check condition statements of If Elseif else
-public class Assignment_9 
+public class Assignment_101 
 {
 	public static void main(String[] args) 
 	{
@@ -27,4 +27,5 @@ public class Assignment_9
 			System.out.println("Invalid Age");
 		}
 	}
+
 }
